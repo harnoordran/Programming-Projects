@@ -1,8 +1,0 @@
-﻿  CustomerOrder.cpp
-  LineManager.cpp
-  Station.cpp
-  Utilities.cpp
-  Workstation.cpp
-  Generating Code...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\hkdra\OneDrive - Seneca\CPP(SEMESTER 3)\OOP 345\Project\Milestone3\x64\Debug\Milestone3.exe : fatal error LNK1120: 1 unresolved externals
